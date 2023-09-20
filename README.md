@@ -5,7 +5,7 @@
 [Bahasa Indonesia](#id)
 
 ## [ID]
-### How To Install
+### Cara Install
 1. Download dari repository github [disini]('https://github.com/aldisetiapambudi/simple-copy')
 atau : https://github.com/aldisetiapambudi/simple-copy
 
@@ -29,7 +29,7 @@ Contoh :
 </html>
 ```  
 
-### How to use 
+### Cara Penggunaan
  Anda dapat menggunakan degan mudah hanya dengan menambahkan `onClick="copyContent('targetId')"`
  
  contoh  : 
@@ -95,7 +95,7 @@ Contoh penggunaan pada elemen lain
  *) Script diatas hanya contoh
 
 
-### Catatan pengambilan nilai / contentn yang di salin 
+### Catatan pengambilan nilai / konten yang di salin 
 | No | Elemen | Pengambilan Nilai Dari |
 | --- | --- | --- |
 |1 | Input | value |
