@@ -4,7 +4,7 @@
 [English](##ENG) | 
 [Bahasa Indonesia](##ID)
 <hr>
-## [ID]
+## ID
 ### How To Install
 1. Download dari repository github [disini]('https://github.com/aldisetiapambudi/simple-copy')
 atau : https://github.com/aldisetiapambudi/simple-copy
@@ -108,7 +108,9 @@ Contoh penggunaan pada elemen lain
 >  1. Elemen Html yang memiliki value seperti input dan sejenisnya maka konten yang di copy adalah apa yang ada di dalam value, sedangkan elemen seperti label, paragraph dan sejenisnya maka yang akan dicopy adalah contentn dari elemen itu sendiri
 > 2. Anda juga bisa menambahkan attribute `data-copy` sebagai alternatif. 
 
-## [ENG]
+
+
+## ENG
 ### How To Install
 1. Download from the GitHub repository [here](https://github.com/aldisetiapambudi/simple-copy) or use this link: https://github.com/aldisetiapambudi/simple-copy
 
@@ -210,8 +212,6 @@ Examples of using other elements:
 > 
 >  1. HTML elements with a value attribute, such as input and similar elements, will copy the content within the value attribute. For elements like labels, paragraphs, and the like, it will copy the content of the element itself.
 > 2. You can also add the `data-copy` attribute as an alternative.
-
-
 
 
 ### Additional Information
