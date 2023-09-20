@@ -1,0 +1,22 @@
+{
+  "name": "simple-copy",
+  "version": "1.0.0",
+  "description": "CimpSimple Copy by de\u001b[3~dev asp id\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b\u001b[3~\u001b[3~\u001b[3~devASPId\u001b[3~\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[3 by devASPid",
+  "main": "index.js",
+  "scripts": {
+    "test": "copyTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aldisetiapambudi/simple-copy.git"
+  },
+  "keywords": [
+    "sisimple-copy-js"
+  ],
+  "author": "aldisetiapambudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldisetiapambudi/simple-copy.git"
+  },
+  "homepage": "https://github.com/aldisetiapambudi/simple-copy.git#readme"
+}
