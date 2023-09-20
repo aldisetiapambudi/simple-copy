@@ -45,7 +45,7 @@ function copyContent(id, useTooltip = true, toolTipMsgSuccess = null, toolTipMsg
 
 function showTooltip(message) {
   var tooltip = document.createElement('div');
-  tooltip.className = 'tooltip';
+  tooltip.className = 'tooltip-SimpleCopy';
   tooltip.textContent = message;
 
   document.body.appendChild(tooltip);
@@ -54,8 +54,3 @@ function showTooltip(message) {
     document.body.removeChild(tooltip);
   }, 2000);
 }
-
-module.exports = {
-  copyContent,
-  showTooltip,
-};

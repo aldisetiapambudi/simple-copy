@@ -1,7 +1,7 @@
 {
   "name": "simple-copy",
   "version": "1.0.0",
-  "description": "CimpSimple Copy by devASPid",
+  "description": "SimpleCopy by devASPid",
   "main": "index.js",
   "scripts": {
     "test": "copyTest"
@@ -11,7 +11,7 @@
     "url": "https://github.com/aldisetiapambudi/simple-copy.git"
   },
   "keywords": [
-    "sisimple-copy-js"
+    "simple-copy-js"
   ],
   "author": "aldisetiapambudi",
   "license": "ISC",
