@@ -4,7 +4,7 @@
 [English]('##ENG') | 
 [Bahasa Indonesia]('##ID')
 
-## [ID]
+## ID
 ### How To Install
 1. Download dari repository github [disini]('https://github.com/aldisetiapambudi/simple-copy')
 atau : https://github.com/aldisetiapambudi/simple-copy
@@ -110,7 +110,7 @@ Contoh penggunaan pada elemen lain
 
 
 
-## [ENG]
+## ENG
 ### How To Install
 1. Download from the GitHub repository [here](https://github.com/aldisetiapambudi/simple-copy) or use this link: https://github.com/aldisetiapambudi/simple-copy
 
