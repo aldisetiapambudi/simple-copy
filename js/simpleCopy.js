@@ -1,4 +1,4 @@
-function copyContent(id, useTooltip = true) {
+function copyContent(id, useTooltip = true, toolTipMsgSuccess = null, toolTipMsgFail = null) {
   var element = document.getElementById(id);
   var textToCopy = '';
 
@@ -23,11 +23,19 @@ function copyContent(id, useTooltip = true) {
     try {
       document.execCommand('copy');
       if (useTooltip) {
-        showTooltip('Teks berhasil disalin!');
+        if (toolTipMsgSuccess) {
+          showTooltip(toolTipMsgSuccess);
+        } else {
+          showTooltip('Teks berhasil disalin!');
+        }
       }
     } catch (err) {
       if (useTooltip) {
-        showTooltip('Tidak dapat menyalin teks. Cobalah secara manual.');
+        if (toolTipMsgFail) {
+          showTooltip(toolTipMsgFail);
+        } else {
+          showTooltip('Tidak dapat menyalin teks. Cobalah secara manual.');
+        }
       }
     }
 

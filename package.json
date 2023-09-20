@@ -1,7 +1,7 @@
 {
   "name": "simple-copy",
   "version": "1.0.0",
-  "description": "CimpSimple Copy by de\u001b[3~dev asp id\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b\u001b[3~\u001b[3~\u001b[3~devASPId\u001b[3~\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[3 by devASPid",
+  "description": "CimpSimple Copy by devASPid",
   "main": "index.js",
   "scripts": {
     "test": "copyTest"
