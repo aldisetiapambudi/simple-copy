@@ -1,8 +1,8 @@
 # SimpleCopy 
 ## Script Sederhana Untuk Melakukan Copy dengan berbagai elemen Html
 
-[English]('##ENG') | 
-[Bahasa Indonesia]('##ID')
+[English](##ENG) | 
+[Bahasa Indonesia](##ID)
 
 ## ID
 ### How To Install
